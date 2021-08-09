@@ -1,5 +1,5 @@
 # ProjetoESII
-**Tema:** --_Sistema de Compras_**
+**Tema:** **_Sistema de Compras_**
 
 **Integrantes:**
 - Giulia  Alves Massoni RA 003 048 20 2 1 008
