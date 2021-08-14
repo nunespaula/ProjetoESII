@@ -6,7 +6,7 @@
 - Paula de Paula Nunes  RA 003 048 20 2 1 030
 - Vitor Moraes de Sousa RA 003 048 20 2 1 014
 
-**Tecnologias:**
+**Tecnologias que serão utilizadas no projeto:**
 - C#
 - .NET
 - SQL
