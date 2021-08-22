@@ -1,4 +1,4 @@
-# ProjetoESII <align = center>
+# ProjetoESII < p align=center>
 **Tema:** **_Sistema de Compras_**
 
 **Integrantes:**
@@ -21,3 +21,6 @@
   <br>
 &emsp;&emsp;&emsp;Inicialmente o software conta com uma tela de menu para o usuário comum, que permite a nova solicitação de um item específico e uma clara visualização sobre o andamento do próprio pedido. Ao passo que o usuário administrador conta com outro tipo de menu com muito mais funções, tais como aceitar ou rejeitar uma solicitação, visualizar os fornecedores do colégio, checar os produtos pré cadastrados e ter acesso a algumas outras funções subsequentes de telas acessíveis pelo menu.
 </p>
+
+**Link para o documento:**
+Eng. de Software - Tarefa 03 - Tema do Projeto: https://docs.google.com/document/d/119HbMVjm-0elwKu8vk5Nk4wd5qaxv8oIcDSxMkozFTg/edit?usp=sharing
