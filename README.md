@@ -9,7 +9,7 @@
 **Tecnologias que serão utilizadas no projeto:**
 - C#
 - .NET
-- SQL
+- Oracle SQL Developer
 
 **Resumo sobre o Projeto:**
 <p align=justify>
@@ -24,4 +24,4 @@
 
 **Link para o documento:**
 <br>
-Eng. de Software - Tarefa 03 - Tema do Projeto: https://docs.google.com/document/d/119HbMVjm-0elwKu8vk5Nk4wd5qaxv8oIcDSxMkozFTg/edit?usp=sharing
+<a href="https://docs.google.com/document/d/119HbMVjm-0elwKu8vk5Nk4wd5qaxv8oIcDSxMkozFTg/edit?usp=sharing">Eng. de Software - Tarefa 03 - Tema do Projeto</a>
