@@ -1,4 +1,4 @@
-# ProjetoESII < p align=center>
+# ProjetoESII
 **Tema:** **_Sistema de Compras_**
 
 **Integrantes:**
