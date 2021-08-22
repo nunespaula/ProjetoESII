@@ -1,4 +1,4 @@
-# ProjetoESII
+<p align = center> # ProjetoESII </p>
 **Tema:** **_Sistema de Compras_**
 
 **Integrantes:**
@@ -23,4 +23,5 @@
 </p>
 
 **Link para o documento:**
+<br>
 Eng. de Software - Tarefa 03 - Tema do Projeto: https://docs.google.com/document/d/119HbMVjm-0elwKu8vk5Nk4wd5qaxv8oIcDSxMkozFTg/edit?usp=sharing
